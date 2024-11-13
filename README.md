@@ -7,8 +7,8 @@
 - **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
 - **Data Processing:** Pandas, NumPy, Spark  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Cloud:** AWS, GCP, Azure  
+- **Databases:** MySQL, PostgreSQL
+- **Cloud:** AWS,  
 - 
 
 📫 **Get in Touch**:

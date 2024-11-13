@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
-# Welcome to GitHub Desktop!
-
-Here’s a professional and engaging "About Me" section for your GitHub profile:
-
----
-
 ### 👋 About Me
 
 Hi there! I'm Pratheeb K, a [ Data Analyst | Software Developer | Machine Learning Enthusiast] with a passion for transforming complex datasets into actionable insights and creating innovative solutions to real-world problems. 

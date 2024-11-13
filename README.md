@@ -9,7 +9,7 @@
 - **Data Processing:** Pandas, NumPy, Spark  
 - **Databases:** MySQL, PostgreSQL
 - **Cloud:** AWS,  
-- 
+  
 
 📫 **Get in Touch**:
 - **LinkedIn**: https://www.linkedin.com/in/pratheeb-k-a963528b/
